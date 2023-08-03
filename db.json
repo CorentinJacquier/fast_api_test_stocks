@@ -14,6 +14,26 @@
       "id": 3,
       "name": "Testa Rossa Coffee Machine (Sample)",
       "stock": 50
-    }
+    },
+    {
+      "id": 4,
+      "name": "Keyboard",
+      "stock": 75
+    },
+    {
+      "id": 5,
+      "name": "Mouse",
+      "stock": 111
+    },
+    {
+      "id": 6,
+      "name": "clavier-deluxe",
+      "stock": 5
+    },
+    {
+      "id": 7,
+      "name": "clavier-deluxe-grey",
+      "stock": 8
+    },
   ]
 }
